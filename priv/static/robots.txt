@@ -1,5 +1,6 @@
-# See https://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
-#
-# To ban all spiders from the entire site uncomment the next two lines:
-# User-agent: *
-# Disallow: /
+# Allow all search engines to crawl the entire site
+User-agent: *
+Disallow:
+
+# Hello World! Welcome to the Thunderdome Community by Abhigyan Mohanta.
+# Have fun! Make the World a better place, GGs!
